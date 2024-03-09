@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dmitru/Проекты VisualCode/Sobel_Filter/build",
+  "command": "g++   -isystem /usr/local/include/opencv4   -Wall -fsanitize=address -g   -std=gnu++11 -o CMakeFiles/Sobel_Filter.dir/main.cpp.o -c \"/home/dmitru/Проекты VisualCode/Sobel_Filter/main.cpp\"",
+  "file": "/home/dmitru/Проекты VisualCode/Sobel_Filter/main.cpp"
+}
+]

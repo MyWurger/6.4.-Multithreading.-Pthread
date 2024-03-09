@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20240306-1759-Experimental"
+	Name="astralinux"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="6.3.0"
+	OSName="Linux"
+	Hostname="astralinux"
+	OSRelease="5.15.0-70-generic"
+	OSVersion="#astra1+ci3 SMP Fri Mar 31 15:57:55 UTC 2023"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="165"
+	ProcessorCacheSize="12288"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="16152"
+	TotalPhysicalMemory="15770"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2600"
+	>
+	<Testing>
+		<StartDateTime>Mar 06 23:12 MSK</StartDateTime>
+		<StartTestTime>1709755930</StartTestTime>
+		<TestList/>
+		<EndDateTime>Mar 06 23:12 MSK</EndDateTime>
+		<EndTestTime>1709755930</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

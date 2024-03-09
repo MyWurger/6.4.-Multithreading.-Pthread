@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "highgui_c.h": "c",
+        "opencv.hpp": "c",
+        "iostream": "cpp",
+        "chrono": "cpp",
+        "ostream": "cpp"
+    }
+}
